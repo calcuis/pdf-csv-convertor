@@ -1,5 +1,5 @@
 ### convert pdf to csv
-table to table conversion only; try it out by:
+table-to-table conversion only (for handling data); try it out by:
 ```
 py convertor.py
 ```
